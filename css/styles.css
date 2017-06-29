@@ -1,0 +1,12 @@
+.col-md-4:first-child{
+  background-color:#ffd4db;
+}
+.col-md-4:nth-child(2){
+  background-color: #eeb000;
+}
+.col-md-4:last-child{
+  background-color: #f2eecc;
+}
+.col-md-4 li {
+  font-size: 15px;
+}
